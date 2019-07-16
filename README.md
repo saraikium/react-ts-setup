@@ -34,7 +34,7 @@ Everything needed to develop the project has been setup properly including routi
 
 The follwing tool chain has been chosen keeping in mind the speed of development, code quality, validations, security and a minimalistic bundle size. Please DO NOT add anything else.
 
-I have not yet decided on wether to use **Redux** or not. I'm more inclined towards **MobX**. If you can come up with a valid arguement as to why we should use **Redux**, I'm all ears.
+I have not yet decided on whether to use Redux or not. I'm more inclined towards MobX. If you can come up with a valid argument as to why we should use Redux, I'm all ears.
 
 * TypeScript
 * React Storybook
