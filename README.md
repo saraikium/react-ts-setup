@@ -23,7 +23,7 @@ Everything needed to develop the project has been setup properly including routi
 * The testing suite has been configured and setup. You just need to write your tests.
 * A combination of [JEST](https://jestjs.io/) and [React Testing library](https://testing-library.com/docs/react-testing-library/intro) should be used for component testing.
 * [Cypress](https://www.cypress.io/) will be used for end-to-end testing.
-* Pull Request for individual components will not be merged with passing JEST tests.
+* Pull Request for individual components will not be merged without passing JEST tests.
 * Pull Request for completed features will not be merged without end-to-end testing with Cypress.
 
 ### Project structure :card_file_box:
@@ -34,7 +34,7 @@ Everything needed to develop the project has been setup properly including routi
 
 The follwing tool chain has been chosen keeping in mind the speed of development, code quality, validations, security and a minimalistic bundle size. Please DO NOT add anything else.
 
-I have not yet decided on wether to use **Redux** or not. I'm more inclined towards **MobX**. If you can come up with a valid arguement as to why we should use **Redux**, I'm all ears.
+I have not yet decided on whether to use Redux or not. I'm more inclined towards MobX. If you can come up with a valid argument as to why we should use Redux, I'm all ears.
 
 * TypeScript
 * React Storybook
