@@ -1,6 +1,6 @@
 # :construction: IAPPS Web App Front-End
 
-This repo contains the setup for IAPPS Frontend.
+Open source React and TypeScript setup to quickly get started with a project.
 
 ## DO NOT ADD ANY EXTERNAL LIBRARIES
 
@@ -42,7 +42,6 @@ I have not yet decided on wether to use **Redux** or not. I'm more inclined towa
 * Formik
 * Yup
 * Styled Components
-* Tailwind CSS
 * PurgeCSS
 * React Helmet
 * JEST
